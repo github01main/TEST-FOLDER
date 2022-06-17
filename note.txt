@@ -1,0 +1,32 @@
+
+    ----  TEST-PROJECT  ----
+
+    PROJECT CREW SUMMARY : 0
+
+    ┌ PROEJCT CREW POSITION ┐
+
+PM : JOHN-DOE
+PO : JOHN-DOE
+PL : JOHN-DOE
+
+FRONT-END
+
+--------------------------------
+
+MAIN BACK-END ENGINEER : JOHN-DOE
+SUB  BACK-END ENGINEER : JANE-DOE
+SUB  BACK-END ENGINEER : JANE-DOE
+SUB  FRONT-END ENGINNER : JANE-DOE
+
+--------------------------------
+
+BACK-END
+
+--------------------------------
+
+MAIN FRONT-END ENGINNER : JOHN-DOE
+SUB  FRONT-END ENGINNER : JANE-DOE
+SUB  FRONT-END ENGINNER : JANE-DOE
+SUB  FRONT-END ENGINNER : JANE-DOE
+
+--------------------------------
